@@ -12,7 +12,7 @@ folder: mydoc
 
 The protocol below adapted from [this JOVE video](https://www.jove.com/video/3367/rotating-cell-culture-systems-for-human-cell-culture-human) and published work from the laboratory of [Carolyn Coyne](http://www.mmg.pitt.edu/person/carolyn-coyne), particularly [this 2015 mSphere paper](http://msphere.asm.org/content/1/1/e00030-15)
 
-1. Use sterile tissue culture technique throughout all aspects of this protocol. 
+1. Use sterile tissue culture technique throughout all steps of this protocol. 
 2. **Do not use bleach on the STLV machine or parts at any point** Use of bleach may damage the center membrane of the STLV and/or leave residues that affect cell viability.
 3. **Do not use general stock glassware**, even if it has been autoclaved. Use only sterile packaged plasticware.  We have had numerous situations where the general use glassware has residual detergents that affect cell viability.
 
